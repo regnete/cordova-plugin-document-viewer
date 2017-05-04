@@ -1,7 +1,16 @@
 Cordova Document Viewer Plugin
 ============================
 
-**This project is currently in beta stage and may only be carefully used in productive environments.**
+
+**This repo is outdated and will be removed from npm.**
+
+**Use https://github.com/sitewaerts/cordova-plugin-document-viewer instead.**
+
+**Plugin ID "de.sitewaerts.cordova.documentviewer" at npm ist outdated. Use "cordova-plugin-document-viewer" instead.**
+
+
+
+
 
 A common requirement when developing a cordova based app is to embed a
 performant and secure inline viewer for pdf files which doesn't allow the user
